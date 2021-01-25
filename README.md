@@ -1,7 +1,7 @@
 ### Hi there 👋
 ## I´m Ravi Navarro
 - I live in :brazil:, northeast :sunrise:
-- I have been working with Swift programs and Flutter 
+- I have been working with Swift programs and Flutter :computer:
 ## My Skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="appleDeveloper" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="androidDeveloper" width="40" height="40" style="max-width:100%;"></img>
