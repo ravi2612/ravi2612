@@ -1,5 +1,5 @@
 ### Hi there 👋
-##I´m Ravi Navarro
+## I´m Ravi Navarro
 - I live in :brazil:, northeast :surise:
 - I have been working with Swift programs and Flutter 
 ## My Skills
@@ -9,6 +9,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" style="max-width:100%;"></img>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi2612)](https://github.com/ravi2612/github-readme-stats)
 <!--
 **ravi2612/ravi2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
