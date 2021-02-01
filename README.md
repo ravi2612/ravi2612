@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 :handshake:
 ## I´m Ravi Navarro
 - I live in :brazil:, northeast :sunrise:
 - I have been working with Swift programs and Flutter :computer:
