@@ -12,7 +12,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="gitHub" width="40" height="40" style="max-width:100%;"></img>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi2612&layout=compact)](https://github.com/ravi2612/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi2612&layout=compact&langs_count=8)](https://github.com/ravi2612/github-readme-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravi2612&theme=tokyonight&show_icons=true)
