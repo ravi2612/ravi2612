@@ -13,7 +13,7 @@
 
 
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@ravi2612" frameborder="0"></iframe>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi2612)](https://github.com/ravi2612/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravi2612&theme=tokyonight&show_icons=true)
 <!--
