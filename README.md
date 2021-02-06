@@ -15,7 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi2612&layout=compact&langs_count=8)](https://github.com/ravi2612/github-readme-stats)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravi2612&theme=tokyonight&show_icons=true)
+
 
 
 <!--
