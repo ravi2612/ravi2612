@@ -11,6 +11,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="gitHub" width="40" height="40" style="max-width:100%;"></img>
 
+- !! This graphic is not showing my Swift programs !!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi2612&layout=compact&langs_count=7)](https://github.com/ravi2612/github-readme-stats)
 
