@@ -4,21 +4,9 @@
 - I have been working with Swift programs and Flutter :computer:
 ## My Skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="appleDeveloper" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="androidDeveloper" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="gitHub" width="40" height="40" style="max-width:100%;"></img>
-
-- !! This link graphic showing all my Swift programs !!
-- (https://ionicabizau.github.io/github-profile-languages/?user=%2540ravi2612)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravi2612&layout=compact&langs_count=7)](https://github.com/ravi2612/github-readme-stats)
-
-
-
-
 
 <!--
 **ravi2612/ravi2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
