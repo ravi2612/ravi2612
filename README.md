@@ -2,7 +2,8 @@
 ## I´m Ravi Navarro
 - I live in :brazil:, northeast :sunrise:
 - iOS Developer 🍎 | Creating Seamless Digital Experiences
-With over 2+ years of dedicated iOS development expertise, I thrive on crafting dynamic and user-centric applications that bring ideas to life. My journey in the iOS realm has endowed me with an in-depth grasp of framework conventions, industry best practices, memory optimization, and powerful development tools. :computer:
+  
+  Over 2+ years of dedicated iOS development expertise, I thrive on crafting dynamic and user-centric applications that bring ideas to life. My journey in the iOS realm has endowed me with an in-depth grasp of framework conventions, industry best practices, memory optimization, and powerful development tools. :computer:
 ## My Skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="appleDeveloper" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" style="max-width:100%;"></img>
