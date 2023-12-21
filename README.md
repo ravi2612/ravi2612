@@ -3,7 +3,7 @@
 - I live in :brazil:, northeast :sunrise:
 - iOS Developer 🍎 | Creating Seamless Digital Experiences
   
-  Over 2+ years of dedicated iOS development expertise, I thrive on crafting dynamic and user-centric applications that bring ideas to life. My journey in the iOS realm has endowed me with an in-depth grasp of framework conventions, industry best practices, memory optimization, and powerful development tools. :computer:
+ I have 3 years of experience ni mobile development, with a special focus on ensuring the best user experience (UX). I always strive to stay updated on new technologies and market trends ot provide innovative and efficient solutions to my projects. I am strongly committed to quality and timely delivery, and Iam constantly seeking ways to improve professionally. Ibelieve that my experience and skills can bring value to your team.(https://github.com/ravi2612) :computer:
 ## My Skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="appleDeveloper" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" style="max-width:100%;"></img>
